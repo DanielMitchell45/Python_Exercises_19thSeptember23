@@ -28,7 +28,8 @@ Click the link below where you will be able to test this simple converter:
 3.	A simple Python program which accepts the radius of a circle from the user and computes the area. (Area = pi*radius2)
 
 
-  
+  ![python 6](https://github.com/DanielMitchell45/Python_Exercises_19thSeptember23/assets/65592585/79970f5e-5d2c-4648-8386-979d94a81d78)
+
 
   
 

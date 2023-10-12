@@ -14,4 +14,13 @@ Here is another variation:
 
 ![python 3](https://github.com/DanielMitchell45/Python_Exercises_19thSeptember23/assets/65592585/bc884334-ffb0-45ad-a32c-9e68adcfc78c)
 
-2.	A simple converter that will convert miles and kilometres back and forth.
+2.	A simple converter that will convert miles or kilometres to their counterparts as required.
+
+   Here the user selects 1 on the menu:
+
+![python 4](https://github.com/DanielMitchell45/Python_Exercises_19thSeptember23/assets/65592585/09e8ca1b-8cae-48ef-bf4d-564d9d61226d)
+
+  Here the user selects 2 on the menu:
+
+  
+

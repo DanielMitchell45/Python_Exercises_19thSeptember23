@@ -23,4 +23,7 @@ Here is another variation:
   Here the user selects 2 on the menu:
 
   
+  https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Fca5e9497-52d3-456f-bffc-fd464ceba3bd%2Fversions%2F082ea776-3a5c-4f31-8aa3-5439bd6a4f8e%2Ffiles%2Fmiles%20to%20km%20and%20km%20to%20miles.ipynb
+
+  
 

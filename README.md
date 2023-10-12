@@ -16,14 +16,15 @@ Here is another variation:
 
 2.	A simple converter that will convert miles or kilometres to their counterparts as required.
 
-   Here the user selects 1 on the menu:
-
 ![python 4](https://github.com/DanielMitchell45/Python_Exercises_19thSeptember23/assets/65592585/09e8ca1b-8cae-48ef-bf4d-564d9d61226d)
 
-  Here the user selects 2 on the menu:
+Please note that if anything non numeric is entered when prompted, this program will simply crash as nothing has been written for this yet. 
 
+Click the link below where you will be able to test this simple converter:
   
   https://anaconda.cloud/api/nbserve/launch_notebook?nb_url=https%3A%2F%2Fanaconda.cloud%2Fapi%2Fprojects%2Fca5e9497-52d3-456f-bffc-fd464ceba3bd%2Fversions%2F082ea776-3a5c-4f31-8aa3-5439bd6a4f8e%2Ffiles%2Fmiles%20to%20km%20and%20km%20to%20miles.ipynb
+
+  
 
   
 
